@@ -24,7 +24,7 @@
 
 
 
-顶点着色器
+顶点着色器 （ 图元装配 ）
 
 Vertex Shader
 
@@ -67,7 +67,7 @@ Vertex Shader
 <hr>
 
 
-片段着色器 / 像素着色器
+片段着色器 / 像素着色器 （ 光栅化 ）
 
 
 Fragment  Shader / Pixal Shader
